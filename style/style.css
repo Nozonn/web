@@ -186,6 +186,7 @@ footer > #copyright {
     
     main > .appContainer {
         width: 100%;
+        margin: 10px 0;
     }
     footer {
         font-size: 14px;
