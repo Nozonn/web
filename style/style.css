@@ -178,8 +178,16 @@ footer > #copyright {
 }
 
 @media screen and (max-width: 800px){
+    main {
+        display: flex;
+        flex-direction: column;
+        justify-content:center;
+    }
+    
     main > .appContainer {
         width: 100%;
     }
-    
+    footer {
+        font-size: 14px;
+    }
 }
