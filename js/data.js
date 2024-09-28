@@ -36,5 +36,12 @@ window.data = [
         "Quizimix",
         "https://quizimix.pythonanywhere.com",
         "Une application web qui te fais réviser les expérience de physique-chimie et le matériel nécessaire."
+    ),
+
+    appData(
+        "figures-de-style",
+        "Figures de Style",
+        "https://nozonn.github.io/figures-de-style/",
+        "Base de données de figures de style vu en cours"
     )
 ];
