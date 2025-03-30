@@ -18,6 +18,13 @@ window.data = [
     ),
 
     appData(
+        "morpion1",
+        "My First Morpion",
+        "https://nozonn.github.io/morpion1/",
+        "Morpion classique. Pas responsive"
+    ),
+
+    appData(
         "irregular-verbs",
         "Learn Irregular Verbs",
         "https://nozonn.github.io/",
