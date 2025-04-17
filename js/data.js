@@ -21,14 +21,21 @@ window.data = [
         "morpion1",
         "My First Morpion",
         "https://nozonn.github.io/morpion1/",
-        "Morpion classique. Pas responsive"
+        "Morpion classique. Pas responsive."
+    ),
+
+    appData(
+        "plus-ou-moins-grand",
+        "+||- Grand",
+        "https://nozonn.github.io/plus-ou-moins-grand/",
+        "L'odinateur choisit un nombre aléatoire entre 1 et 100 et tu dois le trouver avec un minimum d'essais."
     ),
 
     appData(
         "irregular-verbs",
         "Learn Irregular Verbs",
         "https://nozonn.github.io/",
-        "S'entraîner à apprendre quelque verbes irréguliers"
+        "S'entraîner à apprendre quelque verbes irréguliers."
     ),
 
     appData(
@@ -49,6 +56,6 @@ window.data = [
         "figures-de-style",
         "Figures de Style",
         "https://nozonn.github.io/figures-de-style/",
-        "Base de données de figures de style vu en cours"
+        "Base de données de figures de style vu en cours."
     )
 ];
