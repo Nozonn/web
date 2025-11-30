@@ -16,7 +16,13 @@ window.data = [
         "https://nozonn.github.io/Tout-Noir-Tout-Blanc/",
         "Jeu dans lequel le but est de mettre toutes les cases de la même couleur (noir ou blanc)."
     ),
-
+    appData(
+        "morpion2",
+        "Morpion v2",
+        "https://nozonn.github.io/morpion2/",
+        "Morpion amélioré par rapport au premier"
+    ),
+    
     appData(
         "morpion1",
         "My First Morpion",
